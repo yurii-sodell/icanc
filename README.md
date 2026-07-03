@@ -13,7 +13,7 @@ projects or quick experiments.
 | Flag | Description | Default |
 |------|-------------|---------|
 | `-p=<path>` | Folder to search for source files (required) | - |
-| `-f=<extension>` | Extension to compile: `.c` or `.cpp` | `.c` |
+| `-f=<extension>` | Extension to compile: `.c` or `.cpp` (can be extended manually) | `.c` |
 | `-r` | Run the resulting binary after a successful build | off |
 | `-h`, `--help` | Show help | - |
 
