@@ -1,7 +1,9 @@
 # icanc
 
 A tiny bash script that compiles every `.c` (or `.cpp`) file in a folder into
-a single binary. Handy for small learning projects or quick experiments.
+a single binary. Handy for small learning projects or quick experiments. 
+You can extend supported types by providing type in list below and specifying compiler at the end of the file. 
+Srcipt uses gcc and g++ compilers, which can be replaced manually.
 
 ## Usage
 
